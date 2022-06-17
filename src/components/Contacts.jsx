@@ -11,8 +11,16 @@ const About = () => {
                     <p className="text-4xl border-b-4 inline">Contact info</p>
                 </div>
                 <p className="text-xl mt-2">
-                    Email: gelderisoke@hotmail.nl <br />
+                    Email: gelderisoke@hotmail.nl
+                    <br />
                     Phone number: +31639624297
+                    <br />
+                    <a
+                        className=" text-red-500"
+                        href="https://github.com/ZeusDeOpperslet"
+                    >
+                        Github
+                    </a>
                 </p>
             </div>
         </div>

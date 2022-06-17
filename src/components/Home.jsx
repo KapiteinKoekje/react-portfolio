@@ -20,11 +20,11 @@ const Home = () => {
                 <div>
                     <div className="flex flex-col justify-center h-full">
                         <h2 className="text-4xl sm:text-6xl font-bold">
-                            I'm a student at Hogeschool Utrecht
+                            My name is Gelder van den Brink
                         </h2>
                         <p className="text-gray-200 py-4 max-w-md">
-                            Currently i have worked with python, Javascript,
-                            postgresql, html and css.
+                            Click the button below to see some of the projects i
+                            did.
                         </p>
                     </div>
 

@@ -11,16 +11,10 @@ const About = () => {
                     <p className="text-4xl border-b-4 inline">About me</p>
                 </div>
                 <p className="text-xl mt-2">
-                    Currently doing Open-IT. Enjoying it alot so far. Hope to
-                    get an interesting career out of this
-                </p>
-                <br />
-                <p className="text-xl">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Esse, facere quo voluptates illum recusandae blanditiis
-                    sapiente sit quod asperiores porro! Aliquam voluptatem
-                    tenetur, quasi doloribus blanditiis odit expedita optio
-                    sunt?
+                    My name is Gelder van den Brink. I'm currently following the
+                    bachelors "Open-IT" at Hogeschool Utrecht. I have worked on
+                    a bunch of projects in which i have used Databases made
+                    websites and built an API.
                 </p>
             </div>
         </div>

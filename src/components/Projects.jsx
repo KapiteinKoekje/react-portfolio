@@ -28,7 +28,7 @@ const Projects = () => {
         {
             id: 4,
             img: react,
-            link: "https://google.com",
+            link: "https://github.com/ZeusDeOpperslet/react-portfolio",
             projectName: "React Website",
         },
         {
